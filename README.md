@@ -3,12 +3,12 @@
 [sensormedal](https://github.com/hirotakaster/sensormedal) このライブラリについて整理して、メソッドの追加とサンプルコードを追加したもの
 
 # 導入方法
-`npm install rohm-sensormedal-evk-001-nodejs`
+`npm install rohm-sensormedal`
 
 # サンプルコード
 
 ```(javascript)
-var SensorMedal = require('rohm-sensormedal-evk-001-nodejs');
+var SensorMedal = require('rohm-sensormedal');
 
 //スキャン開始 デバイス名,デバイスUUIDが指定できる
 var device = {"NAME":"ROHM RAW",
