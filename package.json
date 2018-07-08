@@ -1,0 +1,21 @@
+{
+  "name": "rohm-sensormedal-evk-001-nodejs",
+  "version": "1.0.0",
+  "description": "ROHM SensorMedal-EVK-001 node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "keywords": [
+    "sensormedal",
+    "rohm"
+  ],
+  "author": "Nobuyuki Furukawa <t_furu@tf-web.jp> (http://tf-web.jp)",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
