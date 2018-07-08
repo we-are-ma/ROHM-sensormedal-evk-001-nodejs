@@ -11,7 +11,7 @@
     "rohm"
   ],
   "author": "Nobuyuki Furukawa <t_furu@tf-web.jp> (http://tf-web.jp)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "ava": "^0.25.0"
   },
