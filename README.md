@@ -57,5 +57,4 @@ nodebrew などを導入して バージョンを指定して環境を作る必�
 curl -L git.io/nodebrew | perl - setup #nodebrew インストール
 nodebrew install v9.11.2 #9系の最後のバージョンをインストール
 nodebrew use v9.11.2 #9系の最後のバージョンを有効にする
-npm install
 ```
