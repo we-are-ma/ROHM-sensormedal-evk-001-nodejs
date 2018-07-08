@@ -1,6 +1,6 @@
 {
   "name": "rohm-sensormedal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ROHM SensorMedal-EVK-001 node.js",
   "main": "index.js",
   "scripts": {
